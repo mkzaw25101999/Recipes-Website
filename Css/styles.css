@@ -260,7 +260,7 @@ h2 {
   font-size: 1.5em;
 }
 
-.socialmedia-container {
+.social-container {
   display: flex;
   justify-content: center;
   margin: auto;
@@ -268,7 +268,7 @@ h2 {
   background-color: #fdf8ce;
 }
 
-.socialmedia-container .socialmedia-row {
+.social-container .social-row {
   display: flex;
   align-items: center;
   gap: 50px;
@@ -295,3 +295,4 @@ h2 {
 .social-icons-row a:hover {
   color: #ff510c;
 }
+
